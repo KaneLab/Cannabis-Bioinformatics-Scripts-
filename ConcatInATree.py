@@ -1,5 +1,5 @@
 #This program takes in multiple gene files in fasta format for a few species. It then goes threw and takes each fasta formatted file and concatenatenates them end to end. The output file is called ConcatinatedGenes.txt. The only thing you need to change in this program is the path2file. The path2file should contain ONLY the genes you want to concatenate and this file.
-
+#This Script was written by Pablo Mendieta an Undergradutae in the Nolan Kane lab. This script is free to use but citation  
 import os, re
 
 path2files = "/Users/Pablo/Desktop/Code/Python_Scripts/DaniellaTest"
