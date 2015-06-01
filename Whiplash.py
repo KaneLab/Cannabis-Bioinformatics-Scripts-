@@ -1,5 +1,6 @@
 import os
-
+"""Not that this is no longer the preferred script for use in pulling out Mitochdonria Genes. Instead the chosen file is called MitochondriaGeneFinder.py and can be found in this repository.
+"""
 
 #The segment below asks the user for Two files. One with gene locations split into 5 columns, and the otehr for the Fasta file. 
 
